@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##  :wave:Hi there 👋, this is Cong Wan, a first-year graduate student at [XJTU](http://www.xjtu.edu.cn/)
+###  :wave:Hi there, this is Cong Wan, a first-year graduate student at [XJTU](http://www.xjtu.edu.cn/)
 
 ## Interested Field 🌱
 
