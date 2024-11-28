@@ -31,11 +31,6 @@ Safety: adversarial attack
 - B.Eng. in Mathematics and Statistics, 2020-2024
   - Xi’an Jiaotong University
  
-## Work Flow ⚡
-
-- Intern in Autonomous Driving at the Foundation Model Group of Megvii Technology. 2023.12 --- 2024.05
-  - Main Work: The application of 3D perception in multimodal large models for autonomous driving.
-
 ## Selected Checkpoints 😄
 - [Prompt-Agnostic Adversarial Perturbation for Customized Diffusion Models](https://arxiv.org/abs/2408.10571)
   - Accepted by NIPS 2024
