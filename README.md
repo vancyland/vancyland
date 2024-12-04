@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Interested Field 🌱
 
-Computer Vision: image generation/editing, video generation/editing.
+Generative AI: video/3d/4d generation
 
 Multi-modal learning: large language/vision models.
 
