@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ## Interested Field 🌱
 
-Generative AI: video/3d/4d generation
+Generative AI: video/3d generation
 
-Multi-modal learning: large language/vision models.
+Vision language models
 
 Safety: adversarial attack
 
@@ -34,7 +34,8 @@ Safety: adversarial attack
 ## Selected Checkpoints 😄
 - [Prompt-Agnostic Adversarial Perturbation for Customized Diffusion Models](https://arxiv.org/abs/2408.10571)
   - Accepted by NIPS 2024
-
+- [GridShow: Omni Visual Generation](https://arxiv.org/abs/2412.10718)
+  - arxiv
 
 ## Matched Queries
 
