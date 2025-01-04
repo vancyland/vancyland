@@ -30,6 +30,13 @@ Safety: adversarial attack
     
 - B.Eng. in Mathematics and Statistics, 2020-2024
   - Xi’an Jiaotong University
+
+## Work Flow
+
+- Intern in Autonomous Driving at the Foundation Model Group of Megvii Technology. 2023.12 --- 2024.05
+  - Main Work: The application of 3D perception in multimodal large models for autonomous driving.
+- Intern in Embodied Intelligence at the Visual Technology Center of Alibaba DAMO Academy. 2024.05 --- Now
+  - Main Work: The application of temporal understanding and task decomposition in multimodal large models for embodied intelligence.
  
 ## Selected Checkpoints 😄
 - [Prompt-Agnostic Adversarial Perturbation for Customized Diffusion Models](https://arxiv.org/abs/2408.10571)
